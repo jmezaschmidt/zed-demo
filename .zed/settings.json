@@ -1,0 +1,7 @@
+{
+  "languages": {
+    "Java": {
+      "language_servers": [ "jdtls" ]
+    }
+  }
+}
